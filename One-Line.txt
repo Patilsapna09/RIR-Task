@@ -1,0 +1,13 @@
+One-Line answers:
+
+1. what is reverse-i-search in a linux terminal?
+ans: It is used to find the past commands history using Ctrl+r.
+
+2. how do you list out the hidden directories using linux commands line tool?
+ans: using ls -a command.
+
+3. I am not much comfortable with using linux-based OS, I used Ubantu in college times.
+
+4. I have used Apache-tomcat server in spring based web applications.
+
+
